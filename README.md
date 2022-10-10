@@ -1,6 +1,6 @@
 # :whale: Docker Image com ambiente PHP, PDO, MySQL, PhpMyAdmin, Nginx
 
-Estando dentro da pasta raíz, execute o comando abaixo:
+Estando dentro da pasta raíz ou via terminar do vscode, execute o comando abaixo:
 -> docker-compose up 
 
 
