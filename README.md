@@ -3,7 +3,7 @@
 Estando dentro da pasta raíz ou via terminar do vscode, execute o comando abaixo:
 -> docker-compose up 
 
-## Conectar MySQL com ferramenta de manipulação como (Workbench, Dbeaver...)
+## Conectar &#x1F42C; MySQL com ferramenta de manipulação como (Workbench, Dbeaver...)
 
 ```bash
     # Host (Nesse caso deve ser localhost)
@@ -19,7 +19,7 @@ Estando dentro da pasta raíz ou via terminar do vscode, execute o comando abaix
     5020@1223
 ```
 
-## PhpMyAdmin
+## &#x1F418; PhpMyAdmin
 * Para Acessar **localhost:8080** no navegador e ele já estará disponível. Para fazer login é só digitar as seguintes credenciais:
 ```bash
     # Host (deve ser o nome mysql e não localhost)
