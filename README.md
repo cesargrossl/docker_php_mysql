@@ -1,7 +1,14 @@
 # :whale: Docker Image com ambiente &#x1F418; PHP, &#x1F50C; PDO, &#x1F42C; MySQL, &#x1F418;&#x1F511; PhpMyAdmin, &#x1F680; Nginx
 
-Estando dentro da pasta raíz ou via terminar do vscode, execute o comando abaixo:
--> docker-compose up 
+Estando dentro da pasta raíz ou via terminar do vscode, execute o comando abaixo de acordo com sua necessidade:
+
+Para subir os serviços:
+
+-> docker-compose up -d
+
+Para parar os serviços:
+
+-> docker-compose down
 
 ## Conectar &#x1F42C; MySQL com ferramenta de manipulação como (Workbench, Dbeaver...)
 
